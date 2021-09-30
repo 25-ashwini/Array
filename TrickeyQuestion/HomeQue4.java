@@ -1,3 +1,4 @@
+//Program for Printing array and Again printing it in reverse order.
 package Assignment;
 
 import java.util.Scanner;

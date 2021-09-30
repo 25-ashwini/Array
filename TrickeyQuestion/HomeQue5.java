@@ -1,3 +1,4 @@
+//Program for finding the given array is same from front and back.
 package Assignment;
 
 public class HomeQue5 {

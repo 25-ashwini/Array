@@ -1,3 +1,4 @@
+//Program for finding Positive, Negative, Odd, Even and no of Zeros in the array.
 package Assignment;
 import java.util.Scanner;
 public class HomeQue3 {

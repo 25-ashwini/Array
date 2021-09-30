@@ -1,3 +1,4 @@
+//Printing Array element and Finding the element in array.
 package Assignment;
 
 import java.util.Scanner;

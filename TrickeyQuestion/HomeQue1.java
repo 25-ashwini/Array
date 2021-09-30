@@ -1,3 +1,4 @@
+//Printing the Array element given by user.
 package Assignment;
 import java.util.Scanner;  
 public class HomeQue1 {
